@@ -72,4 +72,4 @@ Check my code for <a href="https://github.com/Youhoseong/aws-s3-spring/blob/main
 
 
 ### 5. 다음과제
-- AWS Lambda를 활용한 S3 파일 업로드 api 구축
+- AWS Lambda를 활용한 S3 파일 리사이징 업로드 api 구축
